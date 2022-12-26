@@ -36,4 +36,4 @@ export { toEqualBoth } from './theseMatchers/toEqualBoth';
 export { toStrictEqualBoth } from './theseMatchers/toStrictEqualBoth';
 export { toSubsetEqualBoth } from './theseMatchers/toSubsetEqualBoth';
 
-expect.extend(matchers);
+// expect.extend(matchers);
